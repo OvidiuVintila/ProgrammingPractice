@@ -16,12 +16,9 @@ Find a quote from a famous person you admire. Print the quote and the name of it
 Your output should look something like the following, including the quotation marks:
 Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 #### Exercise_06
-Store the names of a few of your friends in a list called names. Print 
-each person’s name by accessing each element in the list, one at a time.
-Greetings: Start with the list you used in Exercise 3-1, but instead of just 
-printing each person’s name, print a message to them. The text of each message should be the same, but each message should be personalized with the 
-person’s name.
-Your Own List: Think of your favorite mode of transportation, such as a 
-motorcycle or a car, and make a list that stores several examples. Use your list 
-to print a series of statements about these items, such as “I would like to own a 
-Honda motorcycle.”
+>Store the names of a few of your friends in a list called names. 
+>Print each person’s name by accessing each element in the list, one at a time.
+>Use the list above but instead of just printing each person’s name, print a message to them. 
+>The text of each message should be the same, but each message should be personalized with the person’s name.
+>Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. 
+>Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
