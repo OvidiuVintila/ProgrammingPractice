@@ -11,9 +11,11 @@ food_recipes = ("Lemon Pasta Pronto","Salad-Stuffed Peppers","Sheet Pan London",
 print(food_recipes)
 for recipe in food_recipes:
     print(recipe)
+    
 #food_recipes[1] = "Sheet Pan London Broil"
 #print(food_recipes[1]) #error TypeError: 'tuple' object does not support item assignment is shown 
 
 food_recipes = ("Baked Chicken Tacos","Sheet Pan London","Salmon Cakes","Beans Parmesan","Creamy Chicken Soup")
 for recipe in food_recipes:
     print(recipe)
+
