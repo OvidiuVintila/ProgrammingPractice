@@ -31,3 +31,22 @@
 >The text of each message should be the same, but each message should be personalized with the person’s name.<br />
 >Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. <br />
 >Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”<br />
+
+#### Exercise_02
+*Python*
+>Think of at least three kinds of your favorite pizza. Store these pizza names in a list, and then use a for loop to print the name of each pizza. <br />
+> Modify your for loop to print a sentence using the name of the pizza instead of printing just the name of the pizza. For each pizza you should have one line of output containing a simple statement like I like pepperoni pizza.<br />
+>Add a line at the end of your program, outside the for loop, that states how much you like pizza. 
+
+#### Exercise_03
+*Python*
+>Make a list of the first 10 square numbers.
+
+### 02_Tuples
+#### Exercise_01
+*Python*
+>A buffet-style restaurant offers only five basic foods. Think of five simple foods, and store them in a tuple.
+>•	 Use a for loop to print each food the restaurant offers.
+>•	 Try to modify one of the items, and make sure that Python rejects the change.
+>•	 The restaurant changes its menu, replacing two of the items with different foods. 
+>Add a block of code that rewrites the tuple, and then use a for loop to print each of the items on the revised menu.
