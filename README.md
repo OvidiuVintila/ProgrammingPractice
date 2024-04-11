@@ -70,9 +70,17 @@
 
 #### Exercise_03
 *Python*
->Make a list called sandwich_orders and fill it with the names of vari-ous sandwiches .
->Then make an empty list called finished_sandwiches . Loop through the list of sandwich orders and print a message for each order,
->such as I made your tuna sandwich. 
->As each sandwich is made, move it to the list of finished sandwiches . 
->After all the sandwiches have been made, print a message listing each sandwich that was made .
+>Make a list called sandwich_orders and fill it with the names of vari-ous sandwiches .<br />
+>Then make an empty list called finished_sandwiches . Loop through the list of sandwich orders and print a message for each order,<br />
+>such as I made your tuna sandwich. <br />
+>As each sandwich is made, move it to the list of finished sandwiches . <br />
+>After all the sandwiches have been made, print a message listing each sandwich that was made .<br />
 *Exercise found in book Python Crash Course , Eric Matthes, page 131*
+
+## 04_Functions
+#### Exercise_01
+*Python*
+>Write a function called display_message() that prints one sen-<br />
+>tence telling everyone what you are learning about in this chapter . Call the <br />
+>function, and make sure the message displays correctly .<br />
+*Exercise found in book Python Crash Course , Eric Matthes, page 135*
