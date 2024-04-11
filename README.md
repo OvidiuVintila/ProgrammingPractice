@@ -67,3 +67,12 @@
 >•	 Loop through the new_users list to see if each new username has already been used. If it has, print a message that the person will need to enter a <br />
 >new username. If a username has not been used, print a message saying that the username is available.<br />
 >•	 Make sure your comparison is case insensitive. If 'John' has been used, 'JOHN' should not be accepted.<br />
+
+#### Exercise_03
+*Python*
+>Make a list called sandwich_orders and fill it with the names of vari-ous sandwiches .
+>Then make an empty list called finished_sandwiches . Loop through the list of sandwich orders and print a message for each order,
+>such as I made your tuna sandwich. 
+>As each sandwich is made, move it to the list of finished sandwiches . 
+>After all the sandwiches have been made, print a message listing each sandwich that was made .
+*Exercise found in book Python Crash Course , Eric Matthes, page 131*
