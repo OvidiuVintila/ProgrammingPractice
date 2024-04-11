@@ -84,3 +84,20 @@
 >tence telling everyone what you are learning about in this chapter . Call the <br />
 >function, and make sure the message displays correctly .<br />
 *Exercise found in book Python Crash Course , Eric Matthes, page 135*
+
+#### Exercise_02
+*Python*
+>Write a function called favorite_book() that accepts one <br />
+>parameter, title . The function should print a message, such as One of my <br />
+>favorite books is Alice in Wonderland . Call the function, making sure to <br />
+>include a book title as an argument in the function call .<br />
+*Exercise found in book Python Crash Course , Eric Matthes, page 135*
+
+#### Exercise_03
+*Python*
+>Write a function called make_shirt() that accepts a size and the <br />
+>text of a message that should be printed on the shirt . The function should print <br />
+>a sentence summarizing the size of the shirt and the message printed on it .<br />
+>Call the function once using positional arguments to make a shirt . Call the <br />
+>function a second time using keyword arguments .<br />
+*Exercise found in book Python Crash Course , Eric Matthes, page 141*
